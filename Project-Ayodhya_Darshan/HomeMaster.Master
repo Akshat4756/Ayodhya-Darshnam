@@ -1,0 +1,133 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="HomeMaster.master.cs" Inherits="Project_Ayodhya_Darshan.HomeMaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ayodhya</title>
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style/style.css">
+    <link href="style/all.min.css" rel="stylesheet" />
+    <link rel="shortcut icon" href="logo/ayodhya footer logo.png" type="image/x-icon">
+    <link href="style/Carousel.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="HeaderPart" runat="server">
+                <nav class="navbar navbar-expand-sm navbar-dark text-warning bg-gdnt1 sticky-top shadow-lg">
+                    <div class="container">
+                        <a class="navbar-brand" href="Default.aspx">
+                            <img src="logo/ayodhya logo.png" class="img-fluid logostyle" alt="logo">
+                        </a>
+                        <button class="navbar-toggler d-lg-none" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavId" aria-controls="collapsibleNavId"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="collapse navbar-collapse" id="collapsibleNavId">
+                            <ul class="navbar-nav m-auto mt-2 mt-lg-0">
+                                <li class="nav-item">
+                                    <a class="nav-link text-brown fw-bold" href="Default.aspx" aria-current="page">Home <span class="visually-hidden">(current)</span></a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link text-brown fw-bold" href="about.aspx">About</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link text-brown fw-bold" href="terms.aspx">Terms</a>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle text-brown fw-bold" href="#" id="dropdownId" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Explore</a>
+                                    <div class="dropdown-menu" aria-labelledby="dropdownId">
+                                        <asp:HyperLink class="dropdown-item text-brown fw-bold" runat="server" NavigateUrl="~/Spots.aspx?CategoryId=1">Temples</asp:HyperLink>
+                                        <asp:HyperLink class="dropdown-item text-brown fw-bold" runat="server" NavigateUrl="~/Spots.aspx?CategoryId=2">Places</asp:HyperLink>
+                                    </div>
+                                </li>
+                            </ul>
+                            <div class="d-flex">
+                                <a href="#" class="btn btn-outline-dark m-1 text-brown fw-bold"><i class="fa-brands fa-facebook"></i></a>
+                                <a href="#" class="btn btn-outline-dark m-1 text-brown fw-bold"><i class="fa-brands fa-whatsapp"></i></a>
+                                <a href="#" class="btn btn-outline-dark m-1 text-brown fw-bold"><i class="fa-brands fa-instagram"></i></a>
+                                <a href="#" class="btn btn-outline-dark m-1 text-brown fw-bold"><i class="fa-brands fa-linkedin"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </nav>
+            </asp:ContentPlaceHolder>
+            <asp:ContentPlaceHolder ID="BannerPart" runat="server">
+            </asp:ContentPlaceHolder>
+            <asp:ContentPlaceHolder ID="MedPart" runat="server">
+            </asp:ContentPlaceHolder>
+            <asp:ContentPlaceHolder ID="FooterPart" runat="server">
+                <div class="container-fluid bg-gdnt py-3 border">
+                    <div class="container">
+                        <div class="row text-light pt-4 ">
+                            <div class="col-sm-6 text-sm-start text-center">
+                                <p class="text-brown fw-bold">Get Connected With Us Social Networks</p>
+                            </div>
+                            <div class="col-sm-6 text-sm-end text-center">
+                               <a href="#" class="btn btn-outline-dark m-1 text-brown fw-bold"><i class="fa-brands fa-facebook"></i></a>
+                                <a href="#" class="btn btn-outline-dark m-1 text-brown fw-bold"><i class="fa-brands fa-whatsapp"></i></a>
+                                <a href="#" class="btn btn-outline-dark m-1 text-brown fw-bold"><i class="fa-brands fa-instagram"></i></a>
+                                <a href="#" class="btn btn-outline-dark m-1 text-brown fw-bold"><i class="fa-brands fa-linkedin"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container-fluid bg-gdnt py-5">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-3">
+                                <img src="logo/ayodhya footer logo.png" class="img-fluid" alt="">
+                            </div>
+                            <div class="col-sm-3">
+                                <h3>ONLINE SERVICES</h3>
+                                <p class="lh-1"><a href="AdminLogin.aspx" class="text-decoration-none text-brown fw-bold">Admin Login</a></p>
+                                <p class="lh-1"><a href="#" class="text-decoration-none text-brown fw-bold">Holy Places</a></p>
+                                <p class="lh-1"><a href="#" class="text-decoration-none text-brown fw-bold">Image Gallery</a></p>
+                                <p class="lh-1"><a href="MainEvents.aspx" class="text-decoration-none text-brown fw-bold">Events</a></p>
+                                <p class="lh-1"><a href="#" class="text-decoration-none text-brown fw-bold">Tour packages</a></p>
+                                <p class="lh-1"><a href="#" class="text-decoration-none text-brown fw-bold">Hotels Booking</a></p>
+                                <p class="lh-1"><a href="#" class="text-decoration-none text-brown fw-bold">Live Aarti</a></p>
+                            </div>
+                            <div class="col-sm-3">
+                                <h3>QUICK LINKS</h3>
+                                <p class="lh-1"><a href="#" class="text-decoration-none text-brown fw-bold">Home</a></p>
+                                <p class="lh-1"><a href="#" class="text-decoration-none text-brown fw-bold">Contact Us</a></p>
+                                <p class="lh-1"><a href="#" class="text-decoration-none text-brown fw-bold">FAQ</a></p>
+                                <p class="lh-1"><a href="#" class="text-decoration-none text-brown fw-bold">Settings</a></p>
+                                <p class="lh-1"><a href="#" class="text-decoration-none text-brown fw-bold">Donations</a></p>
+                                <p class="lh-1"><a href="#" class="text-decoration-none text-brown fw-bold">Others</a></p>
+
+                            </div>
+                            <div class="col-sm-3">
+                                <h3>CONTACT US</h3>
+                                <p class="text-brown fw-bold"><i class="bi bi-geo-alt-fill"></i>ay1234,Ayodhya,224001,UP</p>
+                                <p class="lh-1"><a href="mailto:akshatdwivedi59941@gmail.com" class="text-decoration-none text-brown fw-bold"><i class="bi bi-envelope"></i>akshatdwivedi59941@gmail.com</a></p>
+                                <p class="lh-1"><a href="tel:+919519595778" class="text-decoration-none text-brown fw-bold"><i class="bi bi-telephone-outbound"></i>+91-9519595778</a></p>
+                                <p class="lh-1"><a href="https://web.whatsapp.com/send?phone=+919519595778&amp;text=Hello" target="_blank" title="hello" class="text-decoration-none text-brown fw-bold"><i class="bi bi-whatsapp"></i>+91-9519595778</a></p>
+                                <p class="lh-1 h5">Contact the Developer:</p><div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="imakshatdwivedi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/imakshatdwivedi?trk=profile-badge">Akshat Dwivedi</a></div>
+              
+                            </div>
+                           
+                                
+              
+              
+                        </div>
+                    </div>
+                </div>
+                <div class="container-fluid text-center bg-gdnt py-2">
+                    <p>Copyright &copy; 2022 <a href="index.html" class="text-decoration-none text-brown">Ayodhya Darshnam</a></p>
+                </div>
+                <script src="style/all.min.js"></script>
+
+                <script src="bootstrap/js/bootstrap.bundle.min.js"></script>
+                <script src="style/custom.js"></script>
+                <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

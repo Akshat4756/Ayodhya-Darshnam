@@ -1,0 +1,6 @@
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Entity\bin\Debug\Entity.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Entity\bin\Debug\Entity.pdb
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Entity\obj\Debug\Entity.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Entity\obj\Debug\Entity.pdb

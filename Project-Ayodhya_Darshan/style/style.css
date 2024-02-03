@@ -1,0 +1,137 @@
+.logostyle {
+    width: 250px;
+}
+
+.bg-gdnt1 {
+    background: linear-gradient(to right, #fc2525, #f53232, #f89d0a, #f75c0f);
+}
+
+.bg-gdnt {
+    background: linear-gradient(to right, #fc2525d3, #f53232bd, #f89d0ac7, #f75c0fad);
+}
+
+.fontstyle {
+    font-family: 'Lucida Calligraphy';
+}
+
+.psize {
+    font-size: 16pt;
+}
+
+.textshadow {
+    text-shadow: 1px 1px #ffffff;
+}
+
+.bg-temple {
+    background: linear-gradient(to right, #f3ecd8, #f8ebe5, #f8f0e2, #eeddd4);
+}
+
+.text-brown {
+    color: #461512;
+}
+
+.textcolor h3, .textcolor h5 {
+    color: rgb(196, 4, 4);
+}
+
+.textcolor p {
+    color: rgb(255, 60, 0);
+}
+
+
+
+.btnstyle {
+    background: linear-gradient(to right, #fc2525d3, #f53232bd, #f83a0ac7, #f75c0fad);
+    color: black;
+    border: none;
+    transition: all .4s ease-in-out;
+    box-shadow:2px 2px 2px #888888;
+}
+
+    .btnstyle:hover {
+        background: linear-gradient(to right,#d64c06ad, #d32d03c7, #f31b1bbd, #ca0202d3);
+        color: white;
+        border: none;
+        transition: all .4s ease-in-out;
+    }
+
+.btn-grad {
+    background: linear-gradient(to right, #f75c0f, #f75c0f, #fe950e, #f89d0a);
+    color: white;
+    border: none;
+    transition: all .4s ease-in-out;
+}
+
+    .btn-grad:hover {
+        background: linear-gradient(to right,#d64c06ad, #d32d03c7, #f31b1bbd, #ca0202d3);
+        color: yellow;
+        border: none;
+        transition: all .4s ease-in-out;
+    }
+
+
+/* ///////////////////////////////////////////////////////////////////////////////////////////////////// */
+.dropdown-submenu {
+    position: relative;
+}
+
+    .dropdown-submenu a::after {
+        transform: rotate(-90deg);
+        position: absolute;
+        right: 6px;
+        top: .8em;
+    }
+
+    .dropdown-submenu .dropdown-menu {
+        top: 0;
+        left: 100%;
+        margin-left: .1rem;
+        margin-right: .1rem;
+    }
+
+
+::-webkit-scrollbar {
+    background-color: rgb(255, 187, 0);
+    width: 10px;
+}
+
+::-webkit-scrollbar-button {
+    background-color: rgb(97, 2, 2);
+    color: white;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #f71f0f;
+}
+
+::selection {
+    background-color: #fc2525;
+    color: white;
+    transition: all 0.6s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+
+@media only screen and (max-width: 600px) {
+    .logostyle {
+        width: 220px;
+    }
+}

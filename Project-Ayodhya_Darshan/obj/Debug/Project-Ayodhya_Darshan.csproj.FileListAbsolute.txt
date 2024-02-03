@@ -1,0 +1,124 @@
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\Project-Ayodhya_Darshan.dll.config
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\Project-Ayodhya_Darshan.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\Project-Ayodhya_Darshan.pdb
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\csc.exe
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\csc.exe.config
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\csc.rsp
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\csi.exe
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\csi.exe.config
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\csi.rsp
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.AppContext.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Collections.Immutable.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Console.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Globalization.Calendars.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.IO.Compression.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.IO.FileSystem.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Net.Http.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Net.Sockets.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.ValueTuple.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Xml.XPath.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\vbc.exe
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\vbc.exe.config
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\vbc.rsp
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\VBCSCompiler.exe
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\VBCSCompiler.exe.config
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\obj\Debug\Project-Ayodhya_Darshan.csproj.AssemblyReference.cache
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\obj\Debug\Project-Ayodhya_Darshan.csproj.CoreCompileInputs.cache
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\obj\Debug\Project-Ayodhya_Darshan.csproj.CopyComplete
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\obj\Debug\Project-Ayodhya_Darshan.dll
+D:\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\obj\Debug\Project-Ayodhya_Darshan.pdb
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\Project-Ayodhya_Darshan.dll.config
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\Project-Ayodhya_Darshan.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\Project-Ayodhya_Darshan.pdb
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\csc.exe
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\csc.exe.config
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\csc.rsp
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\csi.exe
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\csi.exe.config
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\csi.rsp
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.AppContext.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Collections.Immutable.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Console.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Globalization.Calendars.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.IO.Compression.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.IO.FileSystem.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Net.Http.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Net.Sockets.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Reflection.Metadata.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.ValueTuple.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Xml.XPath.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\vbc.exe
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\vbc.exe.config
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\vbc.rsp
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\VBCSCompiler.exe
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\roslyn\VBCSCompiler.exe.config
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\BLL.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\Entity.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\DAL.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\BLL.pdb
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\Entity.pdb
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\bin\DAL.pdb
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\obj\Debug\Project-Ayodhya_Darshan.csproj.AssemblyReference.cache
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\obj\Debug\Project-Ayodhya_Darshan.csproj.CoreCompileInputs.cache
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\obj\Debug\Project-Ayodhya_Darshan.csproj.CopyComplete
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\obj\Debug\Project-Ayodhya_Darshan.dll
+D:\Ayodhya darshnam\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\Project-Ayodhya_Darshan\obj\Debug\Project-Ayodhya_Darshan.pdb

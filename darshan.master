@@ -1,0 +1,176 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="darshan.master.cs" Inherits="Project_Ayodhya_Darshan.darshan" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Ayodhya Darshnam</title>
+    
+    <%--Bootstrap Css--%>
+   <link href="Assets/Bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <%--FontAwesome--%>
+    <link href="Assets/FontAwesome/css/all.min.css" rel="stylesheet" />
+    <%--Datatables --%>
+    <link href="Assets/DataTable/css/jquery.dataTables.min.css" rel="stylesheet" />
+    <%--Bootstrap js--%>
+    <script src="Assets/Bootstrap/js/bootstrap.bundle.js"></script>
+    <%--Custom Stylesheet--%>
+    <link href="Custom.css" rel="stylesheet" />
+    <link href="CssForFlippingcard.css" rel="stylesheet" />
+    <%--Animate.css--%>
+     <link rel="stylesheet" href="Assets/Animate/Animate.css"/>
+    <%--AOS Stylesheet--%>
+    <link rel="stylesheet" href="Assets/DOS/CSS/DOSstyle.css"/>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body class="pt-5" style="font-family:'Source Sans Pro'">
+    <form id="form1" runat="server">
+        <div>
+           <nav class="navbar navbar-expand-lg navbar-dark fixed-top" style="background: linear-gradient(to right, #fc2525, #f53232, #f89c0a, #f75e0f);">
+               <div class="container-fluid">
+                   <a class="navbar-brand" href="Default.aspx"><img src="Assets/Images/Ayodhya Darshnam (1).png" height="90" width="200"/>
+                   </a>
+                   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsupportedcontent" aria-controls="navbarsupportedcontent" aria-expanded="false" aria-label="Toggle navigation">
+                       <span class="navbar-toggler-icon"></span>
+                   </button> 
+                   <div class="collapse navbar-collapse" id="navbarsupportedcontent">
+                       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                           <li class="nav-item">
+                               <a class="nav-link active text-warning hover" aria-current="page" href="Default.aspx"><b><span class="item-hover">Home</span> </b></a>
+                           </li>
+                           <li class="nav-item">
+                               <a class="nav-link active text-warning" aria-current="page" href="#"><b><span class="item-hover">About</span></b></a>
+                           </li>
+                           <li class="nav-item">
+                               <a class="nav-link active text-warning" aria-current="page" href="#"><b><span class="item-hover">Terms</span></b></a>
+                           </li>
+                           <li class="nav-item dropdown">
+                               <a class="nav-link dropdown-toggle text-warning" href="#" id="navbardropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false"><b><span class="item-hover">Explore</span></b></a>
+                                 <ul class="dropdown-menu" aria-labelledby="navbardropdown">
+                                     <li><asp:LinkButton CssClass="dropdown-item nav-item" ID="LinkButton1" runat="server"><span class="item-hover">Shree Ram ki paidi</span></asp:LinkButton></li>
+                                     <li><asp:LinkButton CssClass="dropdown-item nav-item" ID="LinkButton2" runat="server"><span class="item-hover">Shree Ram's Birthplace</span></asp:LinkButton></li>
+                                     <li><asp:LinkButton CssClass="dropdown-item nav-item" ID="LinkButton3" runat="server"><span class="item-hover">Kanak Bhawan</span></asp:LinkButton></li>
+                                     <li><asp:LinkButton CssClass="dropdown-item nav-item" ID="LinkButton4" runat="server"><span class="item-hover">Hanuman Garhi</span></asp:LinkButton></li>
+                                     <li><hr class="dropdown-divider"/></li>
+                                     <li><asp:LinkButton CssClass="dropdown-item nav-item" ID="LinkButton5" runat="server"><span class="item-hover">Other Places</span></asp:LinkButton></li>
+                                 </ul>
+                           </li>
+                       </ul>
+                       <input class="form-control-sm" type="search" placeholder="Search i.g. Kanak Bhawan" aria-label="Search" aria-expanded="false" />
+                       <button class="btn btn-outline-danger btn-sm  text-light" style="outline-color:#f75e0f" type="submit">Search</button>
+                       <ul class="navbar-nav">
+                           <li class="nav-item">
+                               <asp:LinkButton CssClass="nav-link fa fa-sign-in-alt text-warning" ID="LoginButton" runat="server" OnClick="LoginButton_Click"><span class="item-hover">Admin Login</span></asp:LinkButton>
+                           </li>
+                           <li class="nav-item">
+                               <asp:LinkButton CssClass="nav-link fa fa-sign-out-alt text-warning" ID="LogOutButton" runat="server" OnClick="LogOutButton_Click"><span class="item-hover">Log Out</span></asp:LinkButton>
+                           </li>
+                       </ul>
+                   </div>
+
+               </div>
+           </nav>
+           
+       </div>
+        
+            <!--Main content Placeholder-->
+            <div>
+           
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+            </div>
+            <!--Main content Placeholder-->
+      <footer class="text-center text-lg-start text-warning mx-auto" style="background: linear-gradient(to right, #fc2525, #f53232, #f89c0a, #f75e0f)">
+          <!--Social Media Section-->
+          <section class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom">
+              <!--Left-->
+              <div class="me-start d-none d-lg-block">
+                  <span><b>Get Connected With Us Social Networks:</b></span>
+              </div>
+              <!--Left-->
+              <!--Right-->
+              <div>
+                  <a class="btn btn-outline-warning btn-floating m-1" href="#" role="button">
+                      <i class="fab fa-instagram"></i>
+                  </a>
+                  <a class="btn btn-outline-warning btn-floating m-1" href="#" role="button">
+                      <i class="fab fa-whatsapp"></i>
+                  </a>
+                  <a class="btn btn-outline-warning btn-floating m-1" href="#" role="button">
+                      <i class="fab fa-telegram-plane"></i>
+                  </a>
+                  <a class="btn btn-outline-warning btn-floating m-1" href="#" role="button">
+                      <i class="fab fa-twitter"></i>
+                  </a>
+                  <a class="btn btn-outline-warning btn-floating m-1" href="#" role="button">
+                      <i class="fab fa-facebook"></i>
+                  </a>
+                  <a class="btn btn-outline-warning btn-floating m-1" href="#" role="button">
+                      <i class="fab fa-google"></i>
+                  </a>
+                  <!--Right-->
+                <!--Social Media  section-->
+              </div>
+          </section>
+          <!--section Links-->
+          <section class="">
+              <div class="text-center container text-md-start mt-5">
+                  <!--Grid Row-->
+                  <div class="row mt-3">
+                      <!--Grid column-->
+                     
+                      <div class="col-md-4 col-lg-4 col-xl-3 mx-auto mb-4">
+                          <h6 class="text-uppercase fw-bold mb-4">
+                              <i class="fa fa-gem me-3">About Us</i>
+                          </h6>
+                          <img src="Assets/Images/Ayodhya Darshnam (1).png" height="120" width="300" class="float-start img-fluid d-md-block d-none"/>
+                          <div class="space-20"></div>
+                          <p style="text-align:justify">Ayodhya, also known as Saketa, is an ancient city of India, is the birthplace of Rama and setting of the great epic Ramayana. Since 5 years the Ayodhya gained a lot of popularity due to the hard work of up's current cm Yogi Adityanath and the UP government, and there is also a slight increasement in the number of travelers coming to ayodhya. So our purpose is to guide them and give them the best experience of the divine city Ayodhya</p>
+                      </div>
+                      <!--Grid column-->
+                    <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+                        <h6 class="text-uppercase fw-bold mb-4"><i class="fa fa-link">Online Services</i></h6>
+                       
+                         <p style=""><asp:LinkButton class="nav-link text-decoration-none text-warning" ID="LinkButton6" runat="server" OnClick="LinkButton6_Click"><b><span class="item-hover">User Login</span></b></asp:LinkButton></p>
+                         <p><asp:LinkButton class="nav-link text-decoration-none text-warning" ID="LinkButton7" runat="server"><b><span class="item-hover">Holy Places</span></b></asp:LinkButton></p>
+                         <p><asp:LinkButton class="nav-link text-decoration-none text-warning" ID="LinkButton8" runat="server" OnClick="LinkButton8_Click"><b><span class="item-hover">Image Gallery</span></b></asp:LinkButton></p>
+                         <p><asp:LinkButton class="nav-link text-decoration-none text-warning" ID="LinkButton9" runat="server"><b><span class="item-hover">Events</span></b></asp:LinkButton></p>
+                         <p><asp:LinkButton class="nav-link text-decoration-none text-warning" ID="LinkButton10" runat="server"><b><span class="item-hover">Tour packages</span></b></asp:LinkButton></p>
+                         <p><asp:LinkButton class="nav-link text-decoration-none text-warning" ID="LinkButton11" runat="server"><b><span class="item-hover">Hotels Booking</span></b></asp:LinkButton></p>
+                         <p><asp:LinkButton class="nav-link text-decoration-none text-warning" ID="LinkButton12" runat="server"><b><span class="item-hover">Live Aarti</span></b></asp:LinkButton></p>
+                         
+                    </div>
+                      <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+                          <h6 class="text-uppercase fw-bold mb-4"><i class="fa fa-link">Quick Links</i></h6>
+                          <p><asp:LinkButton class="nav-link text-decoration-none text-warning" ID="LinkButton13" runat="server" OnClick="LinkButton13_Click"><b><span class="item-hover">Home</span></b></asp:LinkButton></p>
+                          <p><asp:LinkButton class="nav-link text-decoration-none text-warning" ID="LinkButton14" runat="server"><b><span class="item-hover">Contact Us</span></b></asp:LinkButton></p>
+                          <p><asp:LinkButton class="nav-link text-decoration-none text-warning" ID="LinkButton15" runat="server"><b><span class="item-hover">FAQ</span></b></asp:LinkButton></p>
+                          <p><asp:LinkButton class="nav-link text-decoration-none text-warning" ID="LinkButton16" runat="server"><b><span class="item-hover">Settings</span></b></asp:LinkButton></p>
+                          <p><asp:LinkButton class="nav-link text-decoration-none text-warning" ID="LinkButton17" runat="server"><b><span class="item-hover">Donations</span></b></asp:LinkButton></p>
+                          <p><asp:LinkButton class="nav-link text-decoration-none text-warning" ID="LinkButton18" runat="server"><b><span class="item-hover">Others</span></b></asp:LinkButton></p>
+                      </div>
+                      <div class="col-md-4 col-lg-4 col-xl-3 mx-auto mb-md-0 mb-4">
+                          <h6 class="fw-bold text-uppercase mb-4"><b>Contact Us</b></h6>
+                          <p><i class="fas fa-home me-3"></i><b class="item-hover">ay1234,Ayodhya,224001,UP</b></p>
+                          <p><i class="fas fa-envelope me-3"></i><b class="item-hover">akshatdwivedi59941@gmail.com</b></p>
+                          <p><i class="fas fa-phone me-3"></i><b class="item-hover">9519595778</b></p>
+                          <p><i class="fab fa-whatsapp me-3"></i><b class="item-hover">9519595778</b></p>
+                      </div>
+                      
+                  </div>
+              </div>
+          </section>
+
+      </footer>
+       
+    </form>
+   <script src="Assets/DOS/JS/DOSScript.js"></script>
+  <script>
+      AOS.init({
+          delay: 250
+      });
+  </script>
+</body>
+</html>
